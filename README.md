@@ -1,3 +1,6 @@
+<h1 >Hi 👋, I'm Yash</h1>
+<h3 >A passionate fullstack developer from India</h3>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suspici.yash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shakya40) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashshakya40@gmail.com) 
